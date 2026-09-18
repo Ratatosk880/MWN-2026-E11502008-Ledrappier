@@ -38,7 +38,40 @@ Based on the tutorial by Jennie Goforth (Design Lab), here is a summary of the 5
 ---
 
 ## 2. How to Read a Paper
-*(Pending material)*
+Based on S. Keshav’s "three-pass" method for efficiently reading research papers and conducting literature surveys.
+
+### The Three-Pass Approach
+
+* **First Pass (Bird's-Eye View):**
+  * **Duration:** 5 to 10 minutes.
+  * **Procedure:** Read title, abstract, and introduction carefully; scan section and subsection headings; read the conclusions; glance through references.
+  * **Objective (The Five Cs):**
+    * **Category:** Type of paper (measurement, analysis, prototype).
+    * **Context:** Related work and theoretical foundations used.
+    * **Correctness:** Validity of the underlying assumptions.
+    * **Contributions:** Main findings and claimed contributions.
+    * **Clarity:** Quality of writing and readability.
+  * **Decision:** Determine whether to stop reading, set it aside, or continue to Pass 2.
+
+* **Second Pass (Grasp Content, Ignore Details):**
+  * **Duration:** Up to 1 hour.
+  * **Procedure:** Read with care while skipping complex mathematical proofs or low-level mechanisms; annotate key points and margins.
+  * **Visuals & Graphs:** Scrutinize figures, diagrams, and axes labels; verify whether results include error bars and demonstrate statistical significance.
+  * **Outcome:** Ability to summarize the main arguments with supporting evidence. If stuck, choose whether to abandon, revisit later, or move to Pass 3.
+
+* **Third Pass (In-Depth Understanding & Virtual Re-implementation):**
+  * **Duration:** 4 to 5 hours for beginners, ~1 hour for experienced readers.
+  * **Procedure:** Virtually re-implement the paper by adopting the authors' assumptions and recreating the work from scratch.
+  * **Critical Analysis:** Challenge every statement and assumption; identify implicit assumptions, missing citations, or methodological flaws.
+  * **Outcome:** Ability to reconstruct the entire structure from memory, recognize limitations, and formulate ideas for future research.
+
+---
+
+### Doing a Literature Survey
+
+* **Step 1:** Use academic search engines (e.g., Google Scholar, CiteSeer) with targeted keywords to identify 3–5 recent papers. Apply Pass 1 to each and check their "Related Work" sections for recent survey papers.
+* **Step 2:** If no survey exists, identify recurring citations and prominent authors across the bibliographies to pinpoint leading researchers and key venues.
+* **Step 3:** Browse recent conference proceedings of top venues identified in Step 2, run two passes through selected candidate papers, and iteratively expand the survey via referenced seminal papers.
 
 ---
 
