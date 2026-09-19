@@ -75,5 +75,11 @@ Based on S. Keshav’s "three-pass" method for efficiently reading research pape
 
 ---
 
-## 3. Project Proposal
-*(Pending material)*
+## 3. Project Proposal (Draft)
+
+* **Chosen Path:** Basic Path (based on the paper *"Analysis of IEEE 802.11e for QoS support in wireless LANs"*).
+* **The Problem:** The original paper uses an artificial traffic model (constant packet sizes and smooth arrivals) to test 802.11e. The goal is to investigate how network quality changes when using multimedia traffic (like real voice and video from the 3GPP specification) instead of the paper's simple traffic.
+* **What I Would Measure:** 
+  * Throughput (data speed) for each priority level (Voice, Video, Best Effort, Background).
+  * Packet delay (latency) and jitter.
+  * Packet loss rate when traffic becomes bursty.
