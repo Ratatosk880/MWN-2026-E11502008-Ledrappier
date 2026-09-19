@@ -67,7 +67,7 @@ have an LLM review it, and commit the feedback.
 - Submissions:
   - [ ] [Study Note](A1-background/study-note.md) — five-minute presentation, how to read a paper, and your project proposal
   - [ ] [Slides](<A1-background/A1 — Background Study Notes.pptx>)
-  - [ ] [Rehearsal Presentation](<A1-background/rehearsal review.jpg>) + [presentation](<https://shorturl.at/2VLwh>) : <A1-background/rehearsal review.jpg>) — Speaker Coach recording and the LLM review
+  - [ ] [Rehearsal Presentation](<A1-background/rehearsal review.jpg>) + [presentation](<https://shorturl.at/2VLwh>) — Speaker Coach recording and the LLM review
   - [ ] [Peer Review](https://forms.gle/eGE2JJgjXpCXwqfq7)
 
 ### A2 — ns-3 Setup & First Scenario
