@@ -77,9 +77,9 @@ Based on S. Keshav’s "three-pass" method for efficiently reading research pape
 
 ## 3. Project Proposal (Draft)
 
-* **Chosen Path:** Basic Path (based on the paper *"Analysis of IEEE 802.11e for QoS support in wireless LANs"*).
-* **The Problem:** The original paper uses an artificial traffic model (constant packet sizes and smooth arrivals) to test 802.11e. The goal is to investigate how network quality changes when using multimedia traffic (like real voice and video from the 3GPP specification) instead of the paper's simple traffic.
-* **What I Would Measure:** 
-  * Throughput (data speed) for each priority level (Voice, Video, Best Effort, Background).
-  * Packet delay (latency) and jitter.
-  * Packet loss rate when traffic becomes bursty.
+* **Chosen Path:** Advanced Path (Non-Terrestrial Networks / 5G NTN QoS evaluation using `ns-3 NTN`).
+* **The Problem:** In satellite-terrestrial integrated networks (e.g., LEO satellite constellations), long propagation delays (propagation latency), high Doppler shifts, and rapid satellite motion challenge conventional terrestrial QoS mechanisms. The goal is to investigate how extreme round-trip times (RTT) and orbital handover degrade Quality of Service (QoS) guarantees for delay-sensitive multimedia streams compared to terrestrial networks.
+* **What I Would Measure:**
+  * End-to-end latency (RTT) and delay jitter across satellite links.
+  * Packet loss rate during satellite handover and channel fading events.
+  * Achievable throughput for differentiated traffic types (e.g., VoIP vs. bulk transfer).
