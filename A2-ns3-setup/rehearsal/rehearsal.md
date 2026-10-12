@@ -2,10 +2,10 @@
 
 ## 1. Rehearsal Report Evidence
 
-![Rehearsal Overview and Metrics](path/to/Capture_d_ecran_2026-10-12_231813.png)
+![Rehearsal Overview and Metrics](rehearsal1.png)
 *Figure 1: Rehearsal overview showing overall timing (7:44), average pace (126 wpm), filler word tracking, and pitch variation graph.*
 
-![Detailed Delivery Metrics](path/to/image_52f2b0.png)
+![Detailed Delivery Metrics](rehearsal2.png)
 *Figure 2: Language breakdown highlighting originality, repetitive language check, and inclusiveness ratings.*
 
 ---
