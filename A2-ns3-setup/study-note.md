@@ -50,17 +50,17 @@ The implemented model adheres to the **3GPP TR 26.926** technical report (Releas
 
 Local execution is verified via Wireshark on the point-to-point link between nodes `10.1.1.1` and `10.1.1.2`:
 
-![Wireshark Packet List](path/to/screenshot1.png)
+![Wireshark Packet List](results/Wireshark_capture.png)
 *Wireshark packet list showing UDP packets: columns No., Time, Source (10.1.1.1), Destination (10.1.1.2), Length (~1500 B), and Delta Time (alternating between 0.2 ms within bursts and ~13–14 ms between bursts).*
 
-![Wireshark IO Graphs](path/to/screenshot2.png)
+![Wireshark IO Graphs](results/I-O_graphs.png)
 *(Optional) Wireshark Statistics > I/O Graphs window showing throughput bursts repeating at 60 Hz.*
 
 ### 4.2. Statistical Distributions (PDF & CDF)
 
 The probability density function (PDF) and cumulative distribution function (CDF) were computed using Python (`plot_cdf_pdf.py`) from `results/traffic_stats.txt`:
 
-![Traffic Model PDF and CDF](path/to/traffic_model_cdf_pdf.png)
+![Traffic Model PDF and CDF](results/traffic_model_cdf_pdf.png)
 *Empirical distributions generated from the simulation trace.*
 
 #### Analysis of Empirical Distributions
