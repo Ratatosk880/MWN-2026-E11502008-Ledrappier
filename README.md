@@ -36,10 +36,10 @@ have an LLM review it, and commit the feedback.
 
 - [Assignment Information](https://github.com/bmw-ece-ntust/multimedia-wireless-network?tab=readme-ov-file#a2--ns-3-setup--first-scenario)
 - Submissions:
-  - [ ] [Study Note](path to your .md file) — ns-3 version, platform, install steps, what broke
-  - [ ] [Source code + run command](path to your src/) for your simple scenario
-  - [ ] [Result from your own run](path to specific section in your study note) — numbers, trace, or a Wireshark capture
-  - [ ] [Rehearsal Presentation](path to recording + LLM feedback)
+  - [ ] [Study Note](A2-ns3-setup/study-note.md) — ns-3 version, platform, install steps, what broke
+  - [ ] [Source code + run command](A2-ns3-setup/src) for your simple scenario
+  - [ ] [Result from your own run](A2-ns3-setup/results) — numbers, trace, or a Wireshark capture
+  - [ ] [Rehearsal Presentation](A2-ns3-setup/rehearsal/rehearsal.md)
   - [ ] [Peer Review](https://forms.gle/eGE2JJgjXpCXwqfq7)
 
 ### A3 — Literature Review
