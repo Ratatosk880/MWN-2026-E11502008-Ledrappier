@@ -9,7 +9,7 @@
 
 ## 1. Speaker Coach Summary Metrics
 
-![Rehearsal](A3-literature-review/rehearsal.png)
+![Rehearsal](rehearsal.png)
 ---
 
 ## 2. LLM Feedback & Coaching Assessment
@@ -27,4 +27,4 @@
 ---
 
 ## 3. Rehearsal Link
-- **Recording Video:** `[Insert your Google Drive / unlisted YouTube link here]`
+- **Recording Video:** [Video](https://drive.google.com/file/d/1zkKJxVhIXmHwSvh1VqGygOst5IWepNn2/view?usp=drive_link)
