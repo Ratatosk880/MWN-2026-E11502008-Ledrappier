@@ -48,7 +48,7 @@ have an LLM review it, and commit the feedback.
 - Submissions:
   - [ ] [Study Note](https://github.com/Ratatosk880/MWN-2026-E11502008-Ledrappier/blob/main/A3-literature-review/study-note.md) — per paper: problem / importance / challenges, system model (environment, I/Ps, O/Ps, metrics), experimental settings for ns-3
   - [ ] [Revised project proposal](https://github.com/Ratatosk880/MWN-2026-E11502008-Ledrappier/blob/main/A3-literature-review/study-note.md#3-revised-project-proposal-pivot-to-basic-path) — what changed from A1 and why
-  - [ ] [Rehearsal Presentation](path to recording + LLM feedback)
+  - [ ] [Rehearsal Presentation](https://github.com/Ratatosk880/MWN-2026-E11502008-Ledrappier/blob/main/A3-literature-review/rehearsal.md)
   - [ ] [Peer Review](https://forms.gle/eGE2JJgjXpCXwqfq7)
 
 ### A4 — Baseline Reproduction
