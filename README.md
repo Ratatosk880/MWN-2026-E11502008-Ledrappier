@@ -57,7 +57,7 @@ have an LLM review it, and commit the feedback.
 - Submissions:
   - [ ] [Study Note](https://github.com/Ratatosk880/MWN-2026-E11502008-Ledrappier/blob/main/A4-baseline/study-note.md)
   - [ ] [Source code for simulation and analysis](https://github.com/Ratatosk880/MWN-2026-E11502008-Ledrappier/tree/main/A4-baseline/src)
-  - [ ] [Numerical results](path to specific section in your study note) — plotted against the paper's figure, with parameters, seeds and run count
+  - [ ] [Numerical results](https://github.com/Ratatosk880/MWN-2026-E11502008-Ledrappier/blob/main/A4-baseline/study-note.md#3-baseline-reproduction-1-figure-8-throughput-vs-offered-load) — plotted against the paper's figure, with parameters, seeds and run count
   - [ ] [Rehearsal Presentation](path to recording + LLM feedback)
   - [ ] [Peer Review](https://forms.gle/eGE2JJgjXpCXwqfq7)
 
